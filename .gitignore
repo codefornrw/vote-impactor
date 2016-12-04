@@ -1,3 +1,4 @@
+*.map
 .npm
 *.log
 npm-debug.log*
